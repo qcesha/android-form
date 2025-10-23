@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Анкета</string>
+    <string name="name_label">Введите имя</string>
+    <string name="age_label">Возраст</string>
+    <string name="gender_label">Пол</string>
+    <string name="male">Мужской</string>
+    <string name="female">Женский</string>
+    <string name="subscribe_label">Хочу получать новости</string>
+    <string name="submit_button">Отправить</string>
+    <string name="error_no_name">Пожалуйста, введите имя</string>
+</resources>
